@@ -3,15 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Objects
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
+  - Objectos
   - 
   - 
   - 
@@ -38,6 +39,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Map
+    uniqueID: 3337697881
+    locked: 0
+  - name: Object
+    uniqueID: 170103627
+    locked: 0
+  - name: Player
+    uniqueID: 2966498399
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
