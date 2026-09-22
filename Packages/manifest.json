@@ -1,5 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "com.unity.2d.tilemap": "1.0.0",
+>>>>>>> 303769596c333133ebd425026f0f8a0c529be063
     "com.unity.feature.2d": "2.0.1",
     "com.unity.textmeshpro": "3.0.9",
     "com.unity.ugui": "1.0.0",
