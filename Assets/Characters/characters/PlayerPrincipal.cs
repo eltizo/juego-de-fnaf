@@ -75,11 +75,11 @@ public class PlayerPrincipal : MonoBehaviour
         // Escala original: -4 para derecha, 4 para izquierda
         if (direccionX > 0)
         {
-            transform.localScale = new Vector3(-4, 4, 4);
+            transform.localScale = new Vector3(-5, 5, 5);
         }
         else if (direccionX < 0)
         {
-            transform.localScale = new Vector3(4, 4, 4);
+            transform.localScale = new Vector3(5, 5, 5);
         }
     }
 
